@@ -1,0 +1,108 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - BFPaperButton (2.1.2)
+  - CDAlertView (0.11.0)
+  - Cosmos (19.0.3)
+  - DropDown (2.3.13)
+  - DTPhotoViewerController (3.1.0)
+  - DynamicBlurView (3.0.1)
+  - Gemini (1.4.0)
+  - ImageSlideshow (1.9.2):
+    - ImageSlideshow/Core (= 1.9.2)
+  - ImageSlideshow/Core (1.9.2)
+  - ImageSlideshow/SDWebImage (1.9.2):
+    - ImageSlideshow/Core
+    - SDWebImage (>= 3.7)
+  - IQKeyboardManagerSwift (6.5.10)
+  - M13Checkbox (3.4.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - ObjectMapper (3.5.3)
+  - PopoverSwift (3.0.2)
+  - PopupDialog (0.9.2):
+    - DynamicBlurView (~> 3.0.1)
+  - SDWebImage (5.13.0):
+    - SDWebImage/Core (= 5.13.0)
+  - SDWebImage/Core (5.13.0)
+  - SideMenu (6.5.0)
+  - XLActionController (5.1.0):
+    - XLActionController/Core (= 5.1.0)
+  - XLActionController/Core (5.1.0)
+  - XLActionController/Skype (5.1.0):
+    - XLActionController/Core
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - AlamofireImage (~> 3.1)
+  - AlamofireObjectMapper (~> 5.0)
+  - BFPaperButton
+  - CDAlertView
+  - Cosmos (~> 19.0)
+  - DropDown
+  - DTPhotoViewerController
+  - Gemini
+  - ImageSlideshow (~> 1.4)
+  - ImageSlideshow/SDWebImage
+  - IQKeyboardManagerSwift
+  - M13Checkbox
+  - NVActivityIndicatorView
+  - PopoverSwift
+  - PopupDialog (~> 0.5)
+  - SideMenu
+  - XLActionController
+  - XLActionController/Skype
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireObjectMapper
+    - BFPaperButton
+    - CDAlertView
+    - Cosmos
+    - DropDown
+    - DTPhotoViewerController
+    - DynamicBlurView
+    - Gemini
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+    - M13Checkbox
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - PopoverSwift
+    - PopupDialog
+    - SDWebImage
+    - SideMenu
+    - XLActionController
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  BFPaperButton: a25fdd3ff6898bdbd5cc9b1334ca36adb0296b9f
+  CDAlertView: cd6624e857c85ad14560e2cd23d7eb25b983b590
+  Cosmos: a6fb17284281fa12cf4c85c2efecd440a215ec44
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  DTPhotoViewerController: 2b5e64792ee89fcab1f154538577d1856e04e15b
+  DynamicBlurView: b1df5415f9bd31897549e5d7077e5ec120a4d636
+  Gemini: 4ad915cca8805577fe3021e02feeca2b77dcdbfc
+  ImageSlideshow: be305b54eaf2b2cfc7a7141c7c734605d44dc07d
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  M13Checkbox: 6f59404540ac98ba83a3d1afac335895a40c6a5d
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  PopoverSwift: 62e36061ce2ffbb7ad11ac68672f48c3119fb608
+  PopupDialog: f4bb461bf70ff422be0b56656566424ee9273080
+  SDWebImage: 0327043dbb9533e75f2eff8445b3df0f2ceca6ac
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  XLActionController: 24140d835ab9e260270711afebc5efabebe9d392
+
+PODFILE CHECKSUM: 3ec45c8e779140f9a17f52ff0af92ee8822f4be1
+
+COCOAPODS: 1.11.3
